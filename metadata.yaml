@@ -1,5 +1,8 @@
 _repo: Flower-and-Jewel-or-Daisy-Forrest-s-Daughter_59223
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59223-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Alex. McVeigh, Mrs.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '35103'
     url: http://www.gutenberg.org/2009/agents/35103
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59223#Flower-and-Jewel-or-Daisy-Forrest-s-Daughter
 gutenberg_issued: '2019-04-08'
 gutenberg_type: Text
 identifiers:
